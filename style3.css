@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color:#fff;
+    font-size: 36px;
+    background-color: #333;
+
+}
+.center{
+    text-align: center;
+}
+.par{
+    text-align: center;
+    color: gold;
+    font-size: 50px;
+}
+.par2{
+    color:tomato;
+    font-size: 80px;
+}
+/* 2 opcja na wszystkie paragrafy
+p{
+    text-align: center;
+}*/
+img{
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 356;
+}
+.par3{
+    color:lime;
+    font-style:italic;
+}
+.pierwsza{
+    color:tomato;
+    text-decoration: underline;
+
+}
+ol{
+    color:	#C71585;
+    text-align: center;
+}
+thead {
+    background-color: tomato;
+    color:black;
+}
+ 
+tbody {
+    background-color: #fff;
+    color:red;
+}
+ 
+
